@@ -1,0 +1,4 @@
+﻿  PanoTest.cpp
+C:\Users\Sudarshan\Documents\360Pano\360Pano\PanoTest.cpp(50,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Sudarshan\Documents\360Pano\360Pano\PanoTest.cpp(50,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1181: cannot open input file 'opencv_world341.obj'
